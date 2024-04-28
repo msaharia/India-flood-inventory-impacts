@@ -9,4 +9,13 @@ The notebook shows the development of the District Flood Severity Index (DFSI) m
 
 The first version of the India Flood Inventory (IFI) is hosted here. But it stop at 2016.
 
+## Team
+- Manabendra Saharia (IIT Delhi)
+- Ved Prakash (IIT Delhi)
+- Sharad Jain (IIT Roorkee)
+- Harshul Mallik (IIT Delhi)
+- OP Sreejith (IMD)
+
+For any questions, please email msaharia@iitd.ac.in
+
 
